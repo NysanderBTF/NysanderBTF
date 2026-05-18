@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey, I’m NysanderBTF
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey, I’m Grigory
 
 <p align="center">
   <img src="./banner.png" alt="Cyberpunk furry banner" />
@@ -38,9 +38,6 @@ Python microservice with Celery workers, parsing jobs, and API endpoints for wea
 
 ### 🔐 auth_mvp
 Authentication-focused backend MVP for secure login flows and session-based auth.
-
-### 🧩 fullstack_vue_django_test
-Full-stack Vue 3 + Django 4.2 project.
 
 ### 🎓 CourseManagement
 Backend system for course and learning management workflows.
