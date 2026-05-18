@@ -71,7 +71,7 @@ Backend system for course and learning management workflows.
   <img src="https://img.shields.io/badge/Email-kave7771%40outlook.com-FFD43B?style=for-the-badge&logo=microsoftoutlook&logoColor=black" />
 </a>
 
-<a href="https://t.me/@BinksTheFox">
+<a href="https://t.me/BinksTheFox">
   <img src="https://img.shields.io/badge/Telegram-@BinksTheFox-4FC3F7?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
