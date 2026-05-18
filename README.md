@@ -66,7 +66,23 @@ Backend system for course and learning management workflows.
 ## 🌐 Contact
 
 <p align="center">
-  <a href="https://github.com/NysanderBTF">
-    <img src="https://img.shields.io/badge/GitHub-NysanderBTF-181717?style=for-the-badge&logo=github" />
-  </a>
+
+<a href="mailto:kave7771@outlook.com">
+  <img src="https://img.shields.io/badge/Email-kave7771%40outlook.com-FFD43B?style=for-the-badge&logo=microsoftoutlook&logoColor=black" />
+</a>
+
+<a href="https://t.me/BinskTheFox">
+  <img src="https://img.shields.io/badge/Telegram-@BinskTheFox-4FC3F7?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<img src="https://img.shields.io/badge/Discord-foxbinks.-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+
+<a href="https://github.com/NysanderBTF">
+  <img src="https://img.shields.io/badge/GitHub-NysanderBTF-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+<p align="center">
+  <i>"Fluffy on the outside. Infrastructure gremlin on the inside."</i>
 </p>
